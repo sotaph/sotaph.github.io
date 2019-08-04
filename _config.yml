@@ -1,0 +1,28 @@
+title: Sota Kitamura (北村 想太)
+url: "http://morimoto-lab.t.u-tokyo.ac.jp"
+baseurl: "/kitamura"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: UA-145131085-1
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+# - name: "About"
+#   link: "/researcher/"
+# - name: "Resume"
+#   link: "resume.pdf"
+ - name: "Group"
+   link: "http://morimoto-lab.t.u-tokyo.ac.jp"
+ - name: "Scholar"
+   link: "https://scholar.google.co.jp/citations?user=_HyaTKkAAAAJ"
+ - name: "arXiv"
+   link: "https://arxiv.org/a/kitamura_s_1.html"
