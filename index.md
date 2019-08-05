@@ -20,21 +20,21 @@ condensed matter theory, nonequilibrium quantum systems, Floquet engineering
 
 ---
 
-### 学歴
+### 学歴 <span style="font-size: 75%">[[eng]({{base_url}}cv)]</span>
 
-2008年3月 | 岡山県立岡山朝日高校卒業
-2012年3月 | 東京大学理学部物理学科卒業
-2014年3月 | 東京大学大学院理学系研究科物理学専攻 修士課程修了
-2017年3月 | 東京大学大学院理学系研究科物理学専攻 博士課程修了
+2008年03月 | 岡山県立岡山朝日高校卒業
+2012年03月 | 東京大学理学部物理学科卒業
+2014年03月 | 東京大学大学院理学系研究科物理学専攻 修士課程修了
+2017年03月 | 東京大学大学院理学系研究科物理学専攻 博士課程修了
 
 ### 職歴 <span style="font-size: 75%">[[eng]({{base_url}}cv)]</span>
 
-2012年10月 - 2017年3月| フォトンサイエンス・リーディング大学院 (ALPS) コース生
-2017年4月  - 2019年3月| マックスプランク複雑系物理学研究所 博士研究員
-2019年4月 -| 東京大学大学院工学系研究科物理工学専攻  森本研究室 助教
+2012年10月 - 2017年03月| フォトンサイエンス・リーディング大学院 (ALPS) コース生
+2017年04月 - 2019年03月| マックスプランク複雑系物理学研究所 博士研究員
+2019年04月 -| 東京大学大学院工学系研究科物理工学専攻  森本研究室 助教
 
 
-### Thesis
+### Theses
 
 Ph.D thesis:  
 [_"Theoretical study of exotic quantum phases in periodically-driven systems"_](http://doi.org/10.15083/00075562)  
@@ -53,7 +53,7 @@ Adviser: Prof. Hideo Aoki
 
 1. Sota Kitamura, Naoto Nagaosa, Takahiro Morimoto:  
 _"Nonreciprocal Landau-Zener tunneling"_,  
-[arXiv:1908.00000](https://arxiv.org/abs/1908.00000).
+[arXiv:1908.00819](https://arxiv.org/abs/1908.00819).
 
 1. S. Kitamura, H. Usui, R.-J. Slager, A. Bouhon, V. Sunko, H. Rosner, P. D. C. King, J. Orenstein, R. Moessner, A. P. Mackenzie, K. Kuroki, and T. Oka:  
 _"Spin Hall effect in 2D metallic delafossite PtCoO<sub>2</sub> and vicinity topology"_,  
@@ -96,11 +96,10 @@ _"$\eta$-pairing superfluid in periodically-driven fermionic Hubbard model with 
 1. Takahiro Mikami, Sota Kitamura, Kenji Yasuda, Naoto Tsuji, Takashi Oka, and Hideo Aoki:  
 _"Brillouin-Wigner theory for high-frequency expansion in periodically driven systems: Application to Floquet topological insulators"_,  
 [Phys. Rev. B **93**, 144307 (2016)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.144307).  
-[[arXiv](https://arxiv.org/abs/1511.00755)]
+[[arXiv](https://arxiv.org/abs/1511.00755)] [[Erratum](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.019902)]
 
 1. Sota Kitamura, Naoto Tsuji, and Hideo Aoki:  
 _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical Lattice: A Design with a Density Functional Formalism"_,  
 [Phys. Rev. Lett. **115**, 045304 (2015)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.045304).  
 [[arXiv](https://arxiv.org/abs/1411.3345)]
-
 
