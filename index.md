@@ -9,7 +9,7 @@ Research Associate, University of Tokyo
 東京大学大学院 工学系研究科 物理工学専攻 森本研究室 助教
 
 
-kitamura 0x40 ap.t.u-tokyo.ac.jp  
+<i class="far fa-envelope"></i> kitamura 0x40 ap.t.u-tokyo.ac.jp  
 
 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656 Japan  
 〒113-8656 東京都文京区本郷7-3-1 工学部6号館221号室
@@ -51,17 +51,20 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
-1. Sota Kitamura, Naoto Nagaosa, Takahiro Morimoto:  
-_"Nonreciprocal Landau-Zener tunneling"_,  
-[arXiv:1908.00819](https://arxiv.org/abs/1908.00819).
+1. Sota Kitamura, Naoto Nagaosa, and Takahiro Morimoto:  
+_"Current response of nonequilibrium steady states in Landau-Zener problem: Nonequilibrium Green's function approach"_,  
+[Phys. Rev. B **102**, 245141 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.245141).  
+[[arXiv](https://arxiv.org/abs/2009.03596)]
 
-1. S. Kitamura, H. Usui, R.-J. Slager, A. Bouhon, V. Sunko, H. Rosner, P. D. C. King, J. Orenstein, R. Moessner, A. P. Mackenzie, K. Kuroki, and T. Oka:  
-_"Spin Hall effect in 2D metallic delafossite PtCoO<sub>2</sub> and vicinity topology"_,  
-[arXiv:1811.03105](https://arxiv.org/abs/1811.03105).
+1. Sota Kitamura, Naoto Nagaosa, and Takahiro Morimoto:  
+_"Nonreciprocal Landau-Zener tunneling"_,  
+[Commun. Phys. **3**, 63 (2020)](https://doi.org/10.1038/s42005-020-0328-0).  
+[[arXiv](https://arxiv.org/abs/1908.00819)]
 
 1. V. Sunko<sup>\*</sup>, F. Mazzola<sup>\*</sup>, S. Kitamura<sup>\*</sup>, S. Khim, P. Kushwaha, O. J. Clark, M. Watson, I. Marković, D. Biswas, L. Pourovskii, T. K. Kim, T.-L. Lee, P. K. Thakur, H. Rosner, A. Georges, R. Moessner, T. Oka, A. P. Mackenzie, and P. D. C. King:  
 _"Probing spin correlations using angle resolved photoemission in a coupled metallic/Mott insulator system"_,  
-[arXiv:1809.08972](https://arxiv.org/abs/1809.08972).
+[Sci. Adv. **6**, eaaz0611 (2020)](https://doi.org/10.1126/sciadv.aaz0611).  
+[[arXiv](https://arxiv.org/abs/1809.08972)]
 
 1. H. Usui, M. Ochi, S. Kitamura, T. Oka, D. Ogura, H. Rosner, M. W. Haverkort, V. Sunko, P. D. C. King, A. P. Mackenzie, and K. Kuroki:  
 _"Hidden Kagome-lattice picture and origin of high conductivity in delafossite PtCoO<sub>2</sub>"_,  
@@ -73,10 +76,16 @@ _"Floquet Engineering of Quantum Materials"_,
 [Ann. Rev. Cond. Mat. Phys. **10**, 387-408 (2019)](https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-031218-013423).  
 [[arXiv](https://arxiv.org/abs/1804.03212)]
 
+1. S. Kitamura, H. Usui, R.-J. Slager, A. Bouhon, V. Sunko, H. Rosner, P. D. C. King, J. Orenstein, R. Moessner, A. P. Mackenzie, K. Kuroki, and T. Oka:  
+_"Spin Hall effect in 2D metallic delafossite PtCoO<sub>2</sub> and vicinity topology"_,  
+[arXiv:1811.03105](https://arxiv.org/abs/1811.03105).
+
 1. Chanchal Sow, Shingo Yonezawa, Sota Kitamura, Takashi Oka, Kazuhiko Kuroki, Fumihiko Nakamura, and Yoshiteru Maeno:  
 _"Current-induced strong diamagnetism in the Mott insulator Ca<sub>2</sub>RuO<sub>4</sub>"_,  
 [Science **358**, 1084-1087 (2017)](http://science.sciencemag.org/content/358/6366/1084).  
-[[arXiv](https://arxiv.org/abs/1610.02222)] [[プレスリリース](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171124_1.html)] [[日刊工業新聞](https://www.nikkan.co.jp/articles/view/00451939)]
+[[arXiv](https://arxiv.org/abs/1610.02222)] [[プレスリリース](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171124_1.html)] [[日刊工業新聞](https://www.nikkan.co.jp/articles/view/00451939)]  
+**This article has been retracted:** see [Science **368**, 376 (2020)](https://science.sciencemag.org/content/368/6489/376.1)  
+
 
 1. Leda Bucciantini, Sthitadhi Roy, Sota Kitamura, and Takashi Oka:  
 _"Emergent Weyl nodes and Fermi arcs in a Floquet Weyl semimetal"_,  
@@ -102,4 +111,15 @@ _"Brillouin-Wigner theory for high-frequency expansion in periodically driven sy
 _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical Lattice: A Design with a Density Functional Formalism"_,  
 [Phys. Rev. Lett. **115**, 045304 (2015)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.045304).  
 [[arXiv](https://arxiv.org/abs/1411.3345)]
+
+
+
+
+### 担当講義
+
+- 2020年度S1S2 水曜13:00-15:00 数学2B演習 (機械情報工学科、航空宇宙工学科)
+- 2020年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
+- 2019年度A1A2 木曜13:00-16:40 数学及力学演習 (物理工学科) 
+- 2019年度S1S2 水曜13:00-15:00 数学2B演習 (機械情報工学科、航空宇宙工学科)
+
 

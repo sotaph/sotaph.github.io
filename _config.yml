@@ -7,9 +7,10 @@ markdown: kramdown
 
 tracking_id: UA-145131085-1
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
+#footer_url: "https://github.com/ankitsultana"
+#footer_text: "Page design by Ankit Sultana"
+#footer_text: <a href="https://jekyllrb.com/" style="color: black">jekyll</a>  <a href="https://github.com/ankitsultana/researcher" style="color: black">researcher</a>  <a href="https://jpswalsh.github.io/academicons/" style="color: black">academicons</a>
 
 sass:
     style: compressed
@@ -20,9 +21,17 @@ nav:
 #   link: "/researcher/"
 # - name: "Resume"
 #   link: "resume.pdf"
- - name: "Group"
+ - name: <i class="fas fa-home fa-lg" title="Group"></i>
    link: "http://morimoto-lab.t.u-tokyo.ac.jp"
- - name: "Scholar"
+ - name: <i class="ai ai-google-scholar-square ai-lg" title="Google Scholar"></i>
    link: "https://scholar.google.co.jp/citations?user=_HyaTKkAAAAJ"
- - name: "arXiv"
+ - name: <i class="ai ai-semantic-scholar ai-lg" title="Semantic Scholar"></i>
+   link: "https://www.semanticscholar.org/author/Sota-Kitamura/13441915"
+ - name: <i class="ai ai-publons-square ai-lg" title="Publons"></i>
+   link: "https://publons.com/researcher/1889183/sota-kitamura/"
+ - name: <i class="ai ai-arxiv ai-lg" title="arXiv"></i>
    link: "https://arxiv.org/a/kitamura_s_1.html"
+ - name: <i class="ai ai-orcid ai-lg" title="ORCID"></i>
+   link: "https://orcid.org/0000-0003-3083-2353"
+ - name: <i class="fas fa-play fa-fw" title="researchmap"></i>
+   link: "https://researchmap.jp/sotak/"

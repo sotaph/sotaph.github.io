@@ -56,6 +56,8 @@
     {% if page.use_math %}
       {% include mathjax_support %}
     {% endif %}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.1/css/academicons.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
 </head>
 <body>
     <div class="wrapper">
@@ -72,7 +74,7 @@
                         <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
                     {% endif %}
                     {% if forloop.last == false %}
-                        /
+                        <!-- / -->
                     {% endif %}
                         </li>
                 {% endfor %}
@@ -86,8 +88,8 @@
             <div class="container content">
         {% endif %}
                 {{ content }}
+                <hr />
                 {% if site.footer == true %}
-                    <hr />
                     <p style="text-align: center; margin-bottom: 10px">
                     <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
                     </p>
