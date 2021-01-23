@@ -16,7 +16,7 @@ Research Associate, University of Tokyo
 
 
 **Research Interests:**  
-condensed matter theory, nonequilibrium quantum systems, Floquet engineering
+condensed matter theory, nonequilibrium quantum systems, nonperturbative transport, Floquet engineering
 
 ---
 
