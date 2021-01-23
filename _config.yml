@@ -35,3 +35,10 @@ nav:
    link: "https://orcid.org/0000-0003-3083-2353"
  - name: <i class="fas fa-play fa-fw" title="researchmap"></i>
    link: "https://researchmap.jp/sotak/"
+
+
+nav2:
+ - name: "Top"
+   link: "/kitamura/"
+ - name: "研究紹介"
+   link: "/kitamura/research/"
