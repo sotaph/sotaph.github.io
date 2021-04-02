@@ -3,7 +3,7 @@ layout: default
 use_math : true
 ---
 
-<img class="profile-picture" src="profile.jpg">
+<img class="profile-picture" src="images/profile.jpg">
 
 Research Associate, University of Tokyo  
 東京大学大学院 工学系研究科 物理工学専攻 森本研究室 助教
@@ -50,6 +50,13 @@ Adviser: Prof. Hideo Aoki
 
 
 ### Publications
+
+1. T. Akamatsu<sup>\*</sup>, T. Ideue<sup>\*</sup>, L. Zhou<sup>\*</sup>, Y. Dong, S. Kitamura, M. Yoshii, D. Yang, M. Onga, Y. Nakagawa, K. Watanabe, T. Taniguchi, J. Laurienzo, J. Huang, Z. Ye, T. Morimoto, H. Yuan, and Y. Iwasa:  
+_"A van der Waals interface that creates in-plane polarization and a spontaneous photovoltaic effect"_,  
+[Science **372**, 68 (2021)](https://doi.org/10.1126/science.aaz9146).  
+<!--[[arXiv](https://arxiv.org/abs/)]-->
+[[プレスリリース](https://www.t.u-tokyo.ac.jp/foe/press/setnws_202104021333120169363733.html)]
+
 
 1. Sota Kitamura, Naoto Nagaosa, and Takahiro Morimoto:  
 _"Current response of nonequilibrium steady states in Landau-Zener problem: Nonequilibrium Green's function approach"_,  
@@ -117,6 +124,7 @@ _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical
 
 ### 担当講義
 
+- 2021年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
 - 2020年度S1S2 水曜13:00-15:00 数学2B演習 (機械情報工学科、航空宇宙工学科)
 - 2020年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
 - 2019年度A1A2 木曜13:00-16:40 数学及力学演習 (物理工学科) 

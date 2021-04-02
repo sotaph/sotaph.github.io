@@ -41,7 +41,8 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}/">{{ site.title }}</a>
+            <!--<a id="author-name" class="alignable pull-left name" href="{{ site.baseurl }}/"><span class="alignable">Sota Kitamura</span> <span class="alignable">(北村 想太)</span></a>-->
+            <span class="alignable"><a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}/">Sota Kitamura</a></span> <span class="alignable"><a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}/">(北村 想太)</a></span>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a></li>
