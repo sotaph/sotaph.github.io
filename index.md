@@ -51,6 +51,24 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
+_"Topological charge pumping in quasiperiodic systems characterized by Bott index"_,  
+[Phys. Rev. B **104**, 155126 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.155126).  
+Editors' Suggestion [[arXiv](https://arxiv.org/abs/2105.05654)]
+
+1. Sota Kitamura and Hideo Aoki:  
+_"Floquet topological $d+id$ superconductivity induced by chiral many-body interactions"_,  
+[arXiv:2108.13626](https://arxiv.org/abs/2108.13626).
+
+1. Takahiro Morimoto<sup>\*</sup>, Sota Kitamura<sup>\*</sup>, and Shun Okumura:  
+_"Electric polarization and nonlinear optical effects in noncentrosymmetric magnets"_,  
+[Phys. Rev. B **104**, 075139 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075139).  
+Editors' Suggestion [[arXiv](https://arxiv.org/abs/2104.11418)]
+
+1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
+_"Floquet engineering of electric polarization with two-frequency drive"_,  
+[arXiv:2106.09930](https://arxiv.org/abs/2106.09930).
+
 1. T. Akamatsu<sup>\*</sup>, T. Ideue<sup>\*</sup>, L. Zhou<sup>\*</sup>, Y. Dong, S. Kitamura, M. Yoshii, D. Yang, M. Onga, Y. Nakagawa, K. Watanabe, T. Taniguchi, J. Laurienzo, J. Huang, Z. Ye, T. Morimoto, H. Yuan, and Y. Iwasa:  
 _"A van der Waals interface that creates in-plane polarization and a spontaneous photovoltaic effect"_,  
 [Science **372**, 68 (2021)](https://doi.org/10.1126/science.aaz9146).  
