@@ -51,6 +51,16 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+
+1. Takumi Kamatani, Sota Kitamura, Naoto Tsuji, Ryo Shimano, and Takahiro Morimoto:  
+_"Optical response of the Leggett mode in multiband superconductors in the linear response regime"_,  
+[arXiv:2111.12318](https://arxiv.org/abs/2111.12318).
+
+1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
+_"Floquet engineering of electric polarization with two-frequency drive"_,  
+[To appear in Prog. Theor. Exp. Phys., **2021**](https://doi.org/10.1093/ptep/ptab127).  
+[[arXiv](https://arxiv.org/abs/2106.09930)]
+
 1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
 _"Topological charge pumping in quasiperiodic systems characterized by Bott index"_,  
 [Phys. Rev. B **104**, 155126 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.155126).  
@@ -64,10 +74,6 @@ _"Floquet topological $d+id$ superconductivity induced by chiral many-body inter
 _"Electric polarization and nonlinear optical effects in noncentrosymmetric magnets"_,  
 [Phys. Rev. B **104**, 075139 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075139).  
 Editors' Suggestion [[arXiv](https://arxiv.org/abs/2104.11418)]
-
-1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
-_"Floquet engineering of electric polarization with two-frequency drive"_,  
-[arXiv:2106.09930](https://arxiv.org/abs/2106.09930).
 
 1. T. Akamatsu<sup>\*</sup>, T. Ideue<sup>\*</sup>, L. Zhou<sup>\*</sup>, Y. Dong, S. Kitamura, M. Yoshii, D. Yang, M. Onga, Y. Nakagawa, K. Watanabe, T. Taniguchi, J. Laurienzo, J. Huang, Z. Ye, T. Morimoto, H. Yuan, and Y. Iwasa:  
 _"A van der Waals interface that creates in-plane polarization and a spontaneous photovoltaic effect"_,  
@@ -107,9 +113,9 @@ _"Spin Hall effect in 2D metallic delafossite PtCoO<sub>2</sub> and vicinity top
 
 1. Chanchal Sow, Shingo Yonezawa, Sota Kitamura, Takashi Oka, Kazuhiko Kuroki, Fumihiko Nakamura, and Yoshiteru Maeno:  
 _"Current-induced strong diamagnetism in the Mott insulator Ca<sub>2</sub>RuO<sub>4</sub>"_,  
-[Science **358**, 1084-1087 (2017)](http://science.sciencemag.org/content/358/6366/1084).  
+[Science **358**, 1084-1087 (2017)](https://www.science.org/doi/10.1126/science.aah4297).  
 [[arXiv](https://arxiv.org/abs/1610.02222)] [[プレスリリース](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171124_1.html)] [[日刊工業新聞](https://www.nikkan.co.jp/articles/view/00451939)]  
-**This article has been retracted:** see [Science **368**, 376 (2020)](https://science.sciencemag.org/content/368/6489/376.1)  
+**This article has been retracted:** see [Science **368**, 376 (2020)](https://www.science.org/doi/10.1126/science.abc0469)  
 
 
 1. Leda Bucciantini, Sthitadhi Roy, Sota Kitamura, and Takashi Oka:  
@@ -142,6 +148,7 @@ _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical
 
 ### 担当講義
 
+- 2021年度A1A2 木曜13:00-16:40 数学及力学演習 (物理工学科) 
 - 2021年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
 - 2020年度S1S2 水曜13:00-15:00 数学2B演習 (機械情報工学科、航空宇宙工学科)
 - 2020年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
