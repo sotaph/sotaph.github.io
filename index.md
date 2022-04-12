@@ -51,24 +51,28 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+1. Sota Kitamura and Hideo Aoki:  
+_"Floquet topological $d+id$ superconductivity induced by chiral many-body interactions"_,  
+<!--To appear in Commun. Phys.,  .-->[arXiv:2108.13626](https://arxiv.org/abs/2108.13626)
 
 1. Takumi Kamatani, Sota Kitamura, Naoto Tsuji, Ryo Shimano, and Takahiro Morimoto:  
 _"Optical response of the Leggett mode in multiband superconductors in the linear response regime"_,  
-[arXiv:2111.12318](https://arxiv.org/abs/2111.12318).
+[Phys. Rev. B **105**, 094520 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.094520).  
+[[arXiv](https://arxiv.org/abs/2111.12318)]
+
+1. Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto:  
+_"Thermal Hall responses in frustrated honeycomb spin systems"_,  
+[arXiv:2203.16853](https://arxiv.org/abs/2203.16853).
 
 1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
 _"Floquet engineering of electric polarization with two-frequency drive"_,  
-[To appear in Prog. Theor. Exp. Phys., **2021**](https://doi.org/10.1093/ptep/ptab127).  
+[Prog. Theor. Exp. Phys. **2021**, 04A101](https://doi.org/10.1093/ptep/ptab127).  
 [[arXiv](https://arxiv.org/abs/2106.09930)]
 
 1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
 _"Topological charge pumping in quasiperiodic systems characterized by Bott index"_,  
 [Phys. Rev. B **104**, 155126 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.155126).  
 Editors' Suggestion [[arXiv](https://arxiv.org/abs/2105.05654)]
-
-1. Sota Kitamura and Hideo Aoki:  
-_"Floquet topological $d+id$ superconductivity induced by chiral many-body interactions"_,  
-[arXiv:2108.13626](https://arxiv.org/abs/2108.13626).
 
 1. Takahiro Morimoto<sup>\*</sup>, Sota Kitamura<sup>\*</sup>, and Shun Okumura:  
 _"Electric polarization and nonlinear optical effects in noncentrosymmetric magnets"_,  
@@ -148,11 +152,11 @@ _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical
 
 ### 担当講義
 
-- 2021年度A1A2 木曜13:00-16:40 数学及力学演習 (物理工学科) 
+- 第67回 物性若手夏の学校 (2022年8月)
+- 2022年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
+- 2021年度A1A2 木曜13:00-16:40 数学及力学演習 (物理工学科)
 - 2021年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
 - 2020年度S1S2 水曜13:00-15:00 数学2B演習 (機械情報工学科、航空宇宙工学科)
 - 2020年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
-- 2019年度A1A2 木曜13:00-16:40 数学及力学演習 (物理工学科) 
+- 2019年度A1A2 木曜13:00-16:40 数学及力学演習 (物理工学科)
 - 2019年度S1S2 水曜13:00-15:00 数学2B演習 (機械情報工学科、航空宇宙工学科)
-
-
