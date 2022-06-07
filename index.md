@@ -66,7 +66,7 @@ _"Thermal Hall responses in frustrated honeycomb spin systems"_,
 
 1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
 _"Floquet engineering of electric polarization with two-frequency drive"_,  
-[Prog. Theor. Exp. Phys. **2021**, 04A101](https://doi.org/10.1093/ptep/ptab127).  
+[Prog. Theor. Exp. Phys. **2022**, 04A101 (2021)](https://doi.org/10.1093/ptep/ptab127).  
 [[arXiv](https://arxiv.org/abs/2106.09930)]
 
 1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
