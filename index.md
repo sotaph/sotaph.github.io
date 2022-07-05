@@ -53,7 +53,8 @@ Adviser: Prof. Hideo Aoki
 
 1. Sota Kitamura and Hideo Aoki:  
 _"Floquet topological $d+id$ superconductivity induced by chiral many-body interactions"_,  
-<!--To appear in Commun. Phys.,  .-->[arXiv:2108.13626](https://arxiv.org/abs/2108.13626)
+[Cimmun. Phys. **5**, 174 (2022)](https://doi.org/10.1038/s42005-022-00936-w).  
+[[arXiv](https://arxiv.org/abs/2108.13626)]
 
 1. Takumi Kamatani, Sota Kitamura, Naoto Tsuji, Ryo Shimano, and Takahiro Morimoto:  
 _"Optical response of the Leggett mode in multiband superconductors in the linear response regime"_,  
@@ -84,7 +85,6 @@ _"A van der Waals interface that creates in-plane polarization and a spontaneous
 [Science **372**, 68 (2021)](https://doi.org/10.1126/science.aaz9146).  
 <!--[[arXiv](https://arxiv.org/abs/)]-->
 [[プレスリリース](https://www.t.u-tokyo.ac.jp/foe/press/setnws_202104021333120169363733.html)]
-
 
 1. Sota Kitamura, Naoto Nagaosa, and Takahiro Morimoto:  
 _"Current response of nonequilibrium steady states in Landau-Zener problem: Nonequilibrium Green's function approach"_,  
@@ -121,7 +121,6 @@ _"Current-induced strong diamagnetism in the Mott insulator Ca<sub>2</sub>RuO<su
 [[arXiv](https://arxiv.org/abs/1610.02222)] [[プレスリリース](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171124_1.html)] [[日刊工業新聞](https://www.nikkan.co.jp/articles/view/00451939)]  
 **This article has been retracted:** see [Science **368**, 376 (2020)](https://www.science.org/doi/10.1126/science.abc0469)  
 
-
 1. Leda Bucciantini, Sthitadhi Roy, Sota Kitamura, and Takashi Oka:  
 _"Emergent Weyl nodes and Fermi arcs in a Floquet Weyl semimetal"_,  
 [Phys. Rev. B **96**, 041126\(R\) (2017)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.041126).  
@@ -152,7 +151,7 @@ _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical
 
 ### 担当講義
 
-- 第67回 物性若手夏の学校 (2022年8月)
+- 第67回 物性若手夏の学校 講義E「周期駆動量子系の物理」 (2022年8月)
 - 2022年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
 - 2021年度A1A2 木曜13:00-16:40 数学及力学演習 (物理工学科)
 - 2021年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
