@@ -51,19 +51,29 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+
+1. Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto:  
+_"Nonlinear spin current of photoexcited magnons in collinear antiferromagnets"_,  
+[arXiv:2210.17099](https://arxiv.org/abs/2210.17099).  
+
+1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
+_"Gap labeling theorem for multilayer thin film heterostructures"_,  
+[arXiv:2210.16796](https://arxiv.org/abs/2210.16796).  
+
+1. Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto:  
+_"Thermal Hall responses in frustrated honeycomb spin systems"_,  
+[Phys. Rev. B **106**, 035113 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035113).  
+[[arXiv](https://arxiv.org/abs/2203.16853)]
+
 1. Sota Kitamura and Hideo Aoki:  
-_"Floquet topological $d+id$ superconductivity induced by chiral many-body interactions"_,  
-[Cimmun. Phys. **5**, 174 (2022)](https://doi.org/10.1038/s42005-022-00936-w).  
+_"Floquet topological superconductivity induced by chiral many-body interaction"_,  
+[Commun. Phys. **5**, 174 (2022)](https://doi.org/10.1038/s42005-022-00936-w).  
 [[arXiv](https://arxiv.org/abs/2108.13626)]
 
 1. Takumi Kamatani, Sota Kitamura, Naoto Tsuji, Ryo Shimano, and Takahiro Morimoto:  
 _"Optical response of the Leggett mode in multiband superconductors in the linear response regime"_,  
 [Phys. Rev. B **105**, 094520 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.094520).  
 [[arXiv](https://arxiv.org/abs/2111.12318)]
-
-1. Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto:  
-_"Thermal Hall responses in frustrated honeycomb spin systems"_,  
-[arXiv:2203.16853](https://arxiv.org/abs/2203.16853).
 
 1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
 _"Floquet engineering of electric polarization with two-frequency drive"_,  
@@ -83,7 +93,6 @@ Editors' Suggestion [[arXiv](https://arxiv.org/abs/2104.11418)]
 1. T. Akamatsu<sup>\*</sup>, T. Ideue<sup>\*</sup>, L. Zhou<sup>\*</sup>, Y. Dong, S. Kitamura, M. Yoshii, D. Yang, M. Onga, Y. Nakagawa, K. Watanabe, T. Taniguchi, J. Laurienzo, J. Huang, Z. Ye, T. Morimoto, H. Yuan, and Y. Iwasa:  
 _"A van der Waals interface that creates in-plane polarization and a spontaneous photovoltaic effect"_,  
 [Science **372**, 68 (2021)](https://doi.org/10.1126/science.aaz9146).  
-<!--[[arXiv](https://arxiv.org/abs/)]-->
 [[プレスリリース](https://www.t.u-tokyo.ac.jp/foe/press/setnws_202104021333120169363733.html)]
 
 1. Sota Kitamura, Naoto Nagaosa, and Takahiro Morimoto:  
@@ -151,7 +160,8 @@ _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical
 
 ### 担当講義
 
-- 第67回 物性若手夏の学校 講義E「周期駆動量子系の物理」 (2022年8月)
+- 2022年度A1A2 木曜14:00-16:00 統計力学演習 (物理工学科)
+- 2022年8月 第67回 物性若手夏の学校 講義E「周期駆動量子系の物理」
 - 2022年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
 - 2021年度A1A2 木曜13:00-16:40 数学及力学演習 (物理工学科)
 - 2021年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
