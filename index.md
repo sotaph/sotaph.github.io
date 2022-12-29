@@ -52,6 +52,10 @@ Adviser: Prof. Hideo Aoki
 ### Publications
 
 
+1. Y. Dong<sup>\*</sup>, M.-M. Yang<sup>\*</sup>, M. Yoshii, S. Matsuoka, S. Kitamura, T. Hasegawa, N. Ogawa, T. Morimoto, T. Ideue, and Y. Iwasa:  
+_"Giant bulk piezophotovoltaic effect in 3R-MoS<sub>2</sub>"_,  
+[Nat. Nanotechnol. (2022)](https://doi.org/10.1038/s41565-022-01252-8).  
+
 1. Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto:  
 _"Nonlinear spin current of photoexcited magnons in collinear antiferromagnets"_,  
 [arXiv:2210.17099](https://arxiv.org/abs/2210.17099).  
@@ -161,7 +165,7 @@ _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical
 ### 担当講義
 
 - 2022年度A1A2 木曜14:00-16:00 統計力学演習 (物理工学科)
-- 2022年8月 第67回 物性若手夏の学校 講義E「周期駆動量子系の物理」
+- 2022年8月 [第67回 物性若手夏の学校 講義E「周期駆動量子系の物理」](cmpss67)
 - 2022年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
 - 2021年度A1A2 木曜13:00-16:40 数学及力学演習 (物理工学科)
 - 2021年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
