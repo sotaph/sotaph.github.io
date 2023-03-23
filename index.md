@@ -51,18 +51,27 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+1. Takahiro Morimoto, Sota Kitamura, and Naoto Nagaosa:  
+_"Geometric aspects of nonlinear and nonequilibrium phenomena"_,  
+[arXiv:2303.12252](https://arxiv.org/abs/2303.12252).
 
-1. Y. Dong<sup>\*</sup>, M.-M. Yang<sup>\*</sup>, M. Yoshii, S. Matsuoka, S. Kitamura, T. Hasegawa, N. Ogawa, T. Morimoto, T. Ideue, and Y. Iwasa:  
-_"Giant bulk piezophotovoltaic effect in 3R-MoS<sub>2</sub>"_,  
-[Nat. Nanotechnol. (2022)](https://doi.org/10.1038/s41565-022-01252-8).  
-
-1. Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto:  
-_"Nonlinear spin current of photoexcited magnons in collinear antiferromagnets"_,  
-[arXiv:2210.17099](https://arxiv.org/abs/2210.17099).  
+1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
+_"Photocurrent induced by a bicircular light drive in centrosymmetric systems"_,  
+[arXiv:2303.01796](https://arxiv.org/abs/2303.01796).
 
 1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
 _"Gap labeling theorem for multilayer thin film heterostructures"_,  
-[arXiv:2210.16796](https://arxiv.org/abs/2210.16796).  
+[Phys. Rev. B **107**, 064201 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.064201).  
+[[arXiv](https://arxiv.org/abs/2210.16796)]
+
+1. Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto:  
+_"Nonlinear spin current of photoexcited magnons in collinear antiferromagnets"_,  
+[Phys. Rev. B **107**, 064403 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.064403).  
+Editors’ Suggestion [[arXiv](https://arxiv.org/abs/2210.17099)]
+
+1. Y. Dong<sup>\*</sup>, M.-M. Yang<sup>\*</sup>, M. Yoshii, S. Matsuoka, S. Kitamura, T. Hasegawa, N. Ogawa, T. Morimoto, T. Ideue, and Y. Iwasa:  
+_"Giant bulk piezophotovoltaic effect in 3R-MoS<sub>2</sub>"_,  
+[Nat. Nanotechnol. **18**, 36 (2023)](https://doi.org/10.1038/s41565-022-01252-8).  
 
 1. Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto:  
 _"Thermal Hall responses in frustrated honeycomb spin systems"_,  
@@ -81,7 +90,7 @@ _"Optical response of the Leggett mode in multiband superconductors in the linea
 
 1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
 _"Floquet engineering of electric polarization with two-frequency drive"_,  
-[Prog. Theor. Exp. Phys. **2022**, 04A101 (2021)](https://doi.org/10.1093/ptep/ptab127).  
+[Prog. Theor. Exp. Phys. **2022**, 04A101 (2022)](https://doi.org/10.1093/ptep/ptab127).  
 [[arXiv](https://arxiv.org/abs/2106.09930)]
 
 1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
@@ -159,6 +168,12 @@ _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical
 [Phys. Rev. Lett. **115**, 045304 (2015)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.045304).  
 [[arXiv](https://arxiv.org/abs/1411.3345)]
 
+
+### 和文解説
+
+1. 北村想太, 
+"周期駆動量子系の物理",  
+[物性若手夏の学校テキスト **1**, 81 (2023)](https://doi.org/10.57393/natsugaku.1.0_81).  
 
 
 
