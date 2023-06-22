@@ -45,11 +45,20 @@ _"Current response of nonequilibrium steady states in Landau-Zener problem: None
 一般に、外場によって駆動された量子系の性質を調べるためには時間依存Schrödinger方程式を直接解く必要があります。しかし系に加わる外場が周期的である場合は、ハミルトニアンが時間に関する離散的な並進対称性を持つため、それに対応する保存量を考えることができます。この保存量は駆動周波数を単位としたエネルギーの小数部分に対応しており、擬エネルギーと呼ばれています。  
 Floquet理論という微分方程式の理論を応用すると、時間依存Schrödinger方程式をこの擬エネルギーの固有状態を求める問題に帰着させることができます。擬エネルギーのスペクトルを再現する有効ハミルトニアンを考えると、非平衡の問題であるにも関わらず平衡統計力学をベースにした静的な解析によって系の性質が理解できることが多々あります。この有効ハミルトニアンをうまく設計(Floquetエンジニアリング)することで様々な量子状態を実現することを目指した研究をこれまで進めてきました。
 
-レビュー論文
+レビュー論文・解説
 
 - T. Oka and S. Kitamura:
 _"Floquet Engineering of Quantum Materials"_,
 [Ann. Rev. Cond. Mat. Phys. **10**, 387-408 (2019)](https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-031218-013423).  [<i class="ai ai-arxiv ai-lg" title="arXiv"></i>](https://arxiv.org/abs/1804.03212)
+
+- Takahiro Morimoto, Sota Kitamura, and Naoto Nagaosa:  
+_"Geometric aspects of nonlinear and nonequilibrium phenomena"_,  
+[J. Phys. Soc. Jpn. **92**, 072001 (2023)](https://journals.jps.jp/doi/10.7566/JPSJ.92.072001).  
+
+- 北村想太: 
+"周期駆動量子系の物理",  
+[物性若手夏の学校テキスト **1**, 81 (2023)](https://doi.org/10.57393/natsugaku.1.0_81).  
+
 
 #### Brillouin-Wignerの摂動論の周期駆動系への応用
 

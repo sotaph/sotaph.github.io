@@ -53,7 +53,8 @@ Adviser: Prof. Hideo Aoki
 
 1. Takahiro Morimoto, Sota Kitamura, and Naoto Nagaosa:  
 _"Geometric aspects of nonlinear and nonequilibrium phenomena"_,  
-[arXiv:2303.12252](https://arxiv.org/abs/2303.12252).
+[J. Phys. Soc. Jpn. **92**, 072001 (2023)](https://journals.jps.jp/doi/10.7566/JPSJ.92.072001).  
+Invited review papers [[arXiv](https://arxiv.org/abs/2303.12252)]
 
 1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
 _"Photocurrent induced by a bicircular light drive in centrosymmetric systems"_,  
@@ -171,7 +172,7 @@ _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical
 
 ### 和文解説
 
-1. 北村想太, 
+1. 北村想太: 
 "周期駆動量子系の物理",  
 [物性若手夏の学校テキスト **1**, 81 (2023)](https://doi.org/10.57393/natsugaku.1.0_81).  
 
@@ -179,6 +180,7 @@ _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical
 
 ### 担当講義
 
+- 2023年度S1S2 金曜14:55-16:40 数学2D演習 (物理工学科、計数工学科)
 - 2022年度A1A2 木曜14:00-16:00 統計力学演習 (物理工学科)
 - 2022年8月 [第67回 物性若手夏の学校 講義E「周期駆動量子系の物理」](cmpss67)
 - 2022年度S1S2 金曜14:55-16:55 数学2D演習 (物理工学科、計数工学科)
