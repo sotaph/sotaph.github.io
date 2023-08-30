@@ -51,14 +51,15 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
+_"Photocurrent Induced by a Bicircular Light Drive in Centrosymmetric Systems"_,  
+[Phys. Rev. Lett. **131**, 096301 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.096301).  
+Editors’ Suggestion [[arXiv](https://arxiv.org/abs/2303.01796)] [[Synopsis](https://physics.aps.org/articles/v16/s116)]
+
 1. Takahiro Morimoto, Sota Kitamura, and Naoto Nagaosa:  
 _"Geometric aspects of nonlinear and nonequilibrium phenomena"_,  
 [J. Phys. Soc. Jpn. **92**, 072001 (2023)](https://journals.jps.jp/doi/10.7566/JPSJ.92.072001).  
-Invited review papers [[arXiv](https://arxiv.org/abs/2303.12252)]
-
-1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
-_"Photocurrent induced by a bicircular light drive in centrosymmetric systems"_,  
-[arXiv:2303.01796](https://arxiv.org/abs/2303.01796).
+Invited review papers [[arXiv](https://arxiv.org/abs/2303.12252)] [[Movie](https://doi.org/10.7566/JPSHT.3.023)]
 
 1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
 _"Gap labeling theorem for multilayer thin film heterostructures"_,  
@@ -171,6 +172,10 @@ _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical
 
 
 ### 和文解説
+
+1. 北村想太, 青木秀夫:  
+"円偏光で誘起するトポロジカル超伝導の理論――非平衡での強相関効果",  
+[日本物理学会誌 **78**, 404 (2023)](https://doi.org/10.11316/butsuri.78.7_404)
 
 1. 北村想太: 
 "周期駆動量子系の物理",  
