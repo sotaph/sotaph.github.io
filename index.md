@@ -51,6 +51,10 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+1. Takahiro Anan, Takahiro Morimoto, and Sota Kitamura:  
+_"Time-dependent Gutzwiller simulation of Floquet topological superconductivity"_,  
+[arXiv:2309.06069](https://arxiv.org/abs/2309.06069).  
+
 1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
 _"Photocurrent Induced by a Bicircular Light Drive in Centrosymmetric Systems"_,  
 [Phys. Rev. Lett. **131**, 096301 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.096301).  
