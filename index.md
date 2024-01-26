@@ -51,6 +51,10 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
+_"Efficient momentum space approach to superconductivity in quasiperiodic systems"_,  
+[arXiv:2312.09124](https://arxiv.org/abs/2312.09124).  
+
 1. Takahiro Anan, Takahiro Morimoto, and Sota Kitamura:  
 _"Time-dependent Gutzwiller simulation of Floquet topological superconductivity"_,  
 [arXiv:2309.06069](https://arxiv.org/abs/2309.06069).  
@@ -78,6 +82,7 @@ Editors’ Suggestion [[arXiv](https://arxiv.org/abs/2210.17099)]
 1. Y. Dong<sup>\*</sup>, M.-M. Yang<sup>\*</sup>, M. Yoshii, S. Matsuoka, S. Kitamura, T. Hasegawa, N. Ogawa, T. Morimoto, T. Ideue, and Y. Iwasa:  
 _"Giant bulk piezophotovoltaic effect in 3R-MoS<sub>2</sub>"_,  
 [Nat. Nanotechnol. **18**, 36 (2023)](https://doi.org/10.1038/s41565-022-01252-8).  
+[[プレスリリース](https://www.t.u-tokyo.ac.jp/press/pr2022-11-25-001)]
 
 1. Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto:  
 _"Thermal Hall responses in frustrated honeycomb spin systems"_,  
