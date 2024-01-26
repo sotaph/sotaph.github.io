@@ -1,6 +1,6 @@
 title: Sota Kitamura (北村 想太)
-url: "http://morimoto-lab.t.u-tokyo.ac.jp"
-baseurl: "/kitamura"
+url: "https://sotaph.github.io"
+#baseurl: "/kitamura"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -39,8 +39,8 @@ nav:
 
 nav2:
  - name: "Top"
-   link: "/kitamura/"
+   link: "/"
  - name: "研究紹介"
-   link: "/kitamura/research/"
+   link: "/research"
 # - name: "夏学講義ページ"
-#   link: "/kitamura/cmpss67/"
+#   link: "/cmpss67"
