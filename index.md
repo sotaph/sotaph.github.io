@@ -51,6 +51,10 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
+_"Unexpected linear conductivity in Landau-Zener model: limitations and improvements of the relaxation time approximation in the quantum master equation"_,  
+[arXiv:2401.16728](https://arxiv.org/abs/2401.16728).  
+
 1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
 _"Efficient momentum space approach to superconductivity in quasiperiodic systems"_,  
 [arXiv:2312.09124](https://arxiv.org/abs/2312.09124).  

@@ -80,10 +80,11 @@ _"Emergent Weyl nodes and Fermi arcs in a Floquet Weyl semimetal"_,
 
 上に述べた周期数の逆冪での展開には量子系の典型的なエネルギーが光子のエネルギーより低いことが必要です。電子間に強い相互作用が働いているモット絶縁体ではこの条件を満たすことは難しく、むしろ応用上は電荷ギャップよりも小さい周波数での駆動に興味がもたれます。  
 我々は相互作用の逆冪での展開(強結合展開)を周期駆動系に拡張することで、このような状況にも応用できる有効ハミルトニアンの系統的な構築方法を確立しました。この理論を応用するとモット絶縁体のスピン自由度を電場でコントロールすることができます。  
-また、引力Hubbard模型で強い引力によりBEC型の超伝導状態が実現している状況にもこの理論を応用しました。Hubbard模型はη-SU(2)対称性と呼ばれる隠れた対称性のために引力模型と斥力模型が数学的に等価になることが知られていますが、電場を印加するとこの対称性が破れ、引力系に特有な非平衡現象が現れることを見出しました。
+また、引力Hubbard模型で強い引力によりBEC型の超伝導状態が実現している状況にもこの理論を応用しました。Hubbard模型はη-SU(2)対称性と呼ばれる隠れた対称性のために引力模型と斥力模型が数学的に等価になることが知られていますが、電場を印加するとこの対称性が破れ、引力系に特有な非平衡現象が現れることを見出しました。  
+さらに、我々は最近、上記のフレームワークを銅酸化物超伝導体のモデルに適用することで、トポロジカル超伝導が発現する可能性を見出しました。円偏光レーザーで駆動された銅酸化物超伝導体の非平衡状態を超伝導の発現機構まで遡って微視的に記述すると、電子のペアリング相互作用がレーザー電場によって制御でき、高い転移温度に付随して大きなトポロジカルギャップが生じることを示しました。
 
 {% include image.html url="/images/sce.png" description="(a) 周期駆動系の強結合展開における仮想遷移。電子がホッピングする際に光子の吸収や放出が起こる。(b) 駆動された引力Hubbard模型の相図。クーパー対のホッピング<i>J</i>と対間の斥力<i>V</i>の実効的な値が外場<i>A</i>の影響で赤い線に沿って変化し、ηペアリング超伝導と呼ばれる特殊な超伝導状態が実現する(実線と破線は駆動周波数が異なる)。<i>s</i>-SC:
-通常の<i>s</i>波超伝導、CDW:電荷密度波、η-SC:ηペアリング超伝導、PS:相分離。" %}
+通常の<i>s</i>波超伝導、CDW:電荷密度波、η-SC:ηペアリング超伝導、PS:相分離。(c) 円偏光が照射されたときの銅酸化物超伝導体のギャップ関数の絶対値と位相を波数空間でプロットしたもの。" %}
 
 - S. Kitamura, T. Oka, and H. Aoki:
 _"Probing and controlling spin chirality in Mott insulators by circularly polarized laser"_,
@@ -91,3 +92,7 @@ _"Probing and controlling spin chirality in Mott insulators by circularly polari
 - S. Kitamura and H. Aoki:
 _"$\eta$-pairing superfluid in periodically-driven fermionic Hubbard model with strong attraction"_,
 [Phys. Rev. B **94**, 174503 (2016)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174503).  [<i class="ai ai-arxiv ai-lg" title="arXiv"></i>](https://arxiv.org/abs/1511.07890)
+- Sota Kitamura and Hideo Aoki:  
+_"Floquet topological superconductivity induced by chiral many-body interaction"_,  
+[Commun. Phys. **5**, 174 (2022)](https://doi.org/10.1038/s42005-022-00936-w).  
+
