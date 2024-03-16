@@ -51,6 +51,11 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+1. Takahiro Anan, Takahiro Morimoto, and Sota Kitamura:  
+_"Time-dependent Gutzwiller simulation of Floquet topological superconductivity"_,  
+[Commun. Phys. **7**, 99 (2024)](https://doi.org/10.1038/s42005-024-01586-w).  
+[[arXiv](https://arxiv.org/abs/2309.06069)]
+
 1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
 _"Unexpected linear conductivity in Landau-Zener model: limitations and improvements of the relaxation time approximation in the quantum master equation"_,  
 [arXiv:2401.16728](https://arxiv.org/abs/2401.16728).  
@@ -58,10 +63,6 @@ _"Unexpected linear conductivity in Landau-Zener model: limitations and improvem
 1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
 _"Efficient momentum space approach to superconductivity in quasiperiodic systems"_,  
 [arXiv:2312.09124](https://arxiv.org/abs/2312.09124).  
-
-1. Takahiro Anan, Takahiro Morimoto, and Sota Kitamura:  
-_"Time-dependent Gutzwiller simulation of Floquet topological superconductivity"_,  
-[arXiv:2309.06069](https://arxiv.org/abs/2309.06069).  
 
 1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
 _"Photocurrent Induced by a Bicircular Light Drive in Centrosymmetric Systems"_,  
