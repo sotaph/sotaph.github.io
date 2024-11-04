@@ -52,6 +52,23 @@ Adviser: Prof. Hideo Aoki
 ### Publications
 
 1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
+_"Multi-tunneling effect of nonreciprocal Landau-Zener tunneling: Insights from DC field responses"_,  
+[arXiv:2411.00638](https://arxiv.org/abs/2411.00638).  
+
+1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
+_"Problem of nonlinear conductivity within relaxation time approximation in noncentrosymmetric insulators"_,  
+[arXiv:2411.00658](https://arxiv.org/abs/2411.00658).  
+<!-- [Phys. Status Solidi B **XXX**, XXXXXXX (2024)](https://onlinelibrary.wiley.com/journal/15213951).   -->
+
+1. Sota Kitamura and Takashi Oka:  
+_"Dirac Electrons in AC-Magnetic Fields: $\pi$-Landau Levels and Chiral Anomaly-Induced Homodyne Effect"_,  
+[arXiv:2407.08115](https://arxiv.org/abs/2407.08115).  
+
+1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
+_"Controllable photocurrent generation in Dirac systems with two frequency drives"_,  
+[arXiv:2406.14881](https://arxiv.org/abs/2406.14881).  
+
+1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
 _"Limitations and improvements of the relaxation time approximation in the quantum master equation: Linear conductivity in insulating systems"_,  
 [Phys. Rev. B **109**, L180302 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.L180302).  
 [[arXiv](https://arxiv.org/abs/2401.16728)]
@@ -157,7 +174,7 @@ _"Spin Hall effect in 2D metallic delafossite PtCoO<sub>2</sub> and vicinity top
 1. Chanchal Sow, Shingo Yonezawa, Sota Kitamura, Takashi Oka, Kazuhiko Kuroki, Fumihiko Nakamura, and Yoshiteru Maeno:  
 _"Current-induced strong diamagnetism in the Mott insulator Ca<sub>2</sub>RuO<sub>4</sub>"_,  
 [Science **358**, 1084-1087 (2017)](https://www.science.org/doi/10.1126/science.aah4297).  
-[[arXiv](https://arxiv.org/abs/1610.02222)] [[プレスリリース](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171124_1.html)] [[日刊工業新聞](https://www.nikkan.co.jp/articles/view/00451939)]  
+[[arXiv](https://arxiv.org/abs/1610.02222)] <!--[[プレスリリース](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171124_1.html)] [[日刊工業新聞](https://www.nikkan.co.jp/articles/view/00451939)]  -->
 **This article has been retracted:** see [Science **368**, 376 (2020)](https://www.science.org/doi/10.1126/science.abc0469)  
 
 1. Leda Bucciantini, Sthitadhi Roy, Sota Kitamura, and Takashi Oka:  
@@ -195,7 +212,7 @@ _"Interaction-Driven Topological Insulator in Fermionic Cold Atoms on an Optical
 1. 北村想太: 
 "周期駆動量子系の物理",  
 [物性若手夏の学校テキスト **1**, 81 (2023)](https://doi.org/10.57393/natsugaku.1.0_81).  
-
+[[板書](pdf/cmpss67-notes.pdf)]  
 
 
 ### 担当講義
