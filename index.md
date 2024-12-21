@@ -51,6 +51,11 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
+_"Controllable photocurrent generation in Dirac systems with two frequency drives"_,  
+[Phys. Rev. B **110**, 235206 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.235206).  
+[[arXiv](https://arxiv.org/abs/2406.14881)]  
+
 1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
 _"Multi-tunneling effect of nonreciprocal Landau-Zener tunneling: Insights from DC field responses"_,  
 [arXiv:2411.00638](https://arxiv.org/abs/2411.00638).  
@@ -63,10 +68,6 @@ _"Problem of nonlinear conductivity within relaxation time approximation in nonc
 1. Sota Kitamura and Takashi Oka:  
 _"Dirac Electrons in AC-Magnetic Fields: $\pi$-Landau Levels and Chiral Anomaly-Induced Homodyne Effect"_,  
 [arXiv:2407.08115](https://arxiv.org/abs/2407.08115).  
-
-1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
-_"Controllable photocurrent generation in Dirac systems with two frequency drives"_,  
-[arXiv:2406.14881](https://arxiv.org/abs/2406.14881).  
 
 1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
 _"Limitations and improvements of the relaxation time approximation in the quantum master equation: Linear conductivity in insulating systems"_,  
