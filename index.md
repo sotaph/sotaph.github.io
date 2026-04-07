@@ -51,19 +51,39 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+1. Takahiro Anan, Sota Kitamura, and Takahiro Morimoto:  
+_"Nonreciprocal current induced by dissipation in time-reversal symmetric systems"_,  
+[arXiv:2604.04520](https://arxiv.org/abs/2604.04520).  
+
+1. Daemo Kang, Sota Kitamura, and Takahiro Morimoto:  
+_"Quantum Optical Spanner: Twisting Superconductors with Vortex Beam via Higgs Mode"_,  
+[Phys. Rev. B **112**, 214315 (2025)](https://journals.aps.org/prb/abstract/10.1103/cj3p-jqxg).  
+[[arXiv](https://arxiv.org/abs/2504.11883)]  
+
+1. Kosuke Tazuke, Takahiro Morimoto, and Sota Kitamura:  
+_"Formulation of the orbital magnetic moment in multiorbital tight-binding models: Application to the inverse Faraday effect"_,  
+[Phys. Rev. B **112**, 155134 (2025)](https://journals.aps.org/prb/abstract/10.1103/gmnv-cwvr).  
+[[arXiv](https://arxiv.org/abs/2504.16490)]  
+
+1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
+_"Problem of Nonlinear Conductivity within Relaxation Time Approximation in Noncentrosymmetric Insulators"_,  
+[Phys. Status Solidi B **2025**, 2400533 (2025)](https://doi.org/10.1002/pssb.202400533).  
+[[arXiv](https://arxiv.org/abs/2411.00658)]
+
+1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
+_"Multitunneling effect of nonreciprocal Landau-Zener tunneling: Insights from DC field responses"_,  
+[Phys. Rev. B **111**, 064315 (2025)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.064315).  
+[[arXiv](https://arxiv.org/abs/2411.00638)]
+
+1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
+_"Brillouin zone folding method for quasiperiodic superconductivity in multilayer systems: Application to electronic structure and optical responses"_,  
+[Phys. Rev. B **111**, 024206 (2025)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.024206).  
+[[arXiv](https://arxiv.org/abs/2312.09124)]
+
 1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
 _"Controllable photocurrent generation in Dirac systems with two frequency drives"_,  
 [Phys. Rev. B **110**, 235206 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.235206).  
 [[arXiv](https://arxiv.org/abs/2406.14881)]  
-
-1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
-_"Multi-tunneling effect of nonreciprocal Landau-Zener tunneling: Insights from DC field responses"_,  
-[arXiv:2411.00638](https://arxiv.org/abs/2411.00638).  
-
-1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
-_"Problem of nonlinear conductivity within relaxation time approximation in noncentrosymmetric insulators"_,  
-[arXiv:2411.00658](https://arxiv.org/abs/2411.00658).  
-<!-- [Phys. Status Solidi B **XXX**, XXXXXXX (2024)](https://onlinelibrary.wiley.com/journal/15213951).   -->
 
 1. Sota Kitamura and Takashi Oka:  
 _"Dirac Electrons in AC-Magnetic Fields: $\pi$-Landau Levels and Chiral Anomaly-Induced Homodyne Effect"_,  
@@ -78,10 +98,6 @@ _"Limitations and improvements of the relaxation time approximation in the quant
 _"Time-dependent Gutzwiller simulation of Floquet topological superconductivity"_,  
 [Commun. Phys. **7**, 99 (2024)](https://doi.org/10.1038/s42005-024-01586-w).  
 [[arXiv](https://arxiv.org/abs/2309.06069)]
-
-1. Mao Yoshii, Sota Kitamura, and Takahiro Morimoto:  
-_"Efficient momentum space approach to superconductivity in quasiperiodic systems"_,  
-[arXiv:2312.09124](https://arxiv.org/abs/2312.09124).  
 
 1. Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto:  
 _"Photocurrent Induced by a Bicircular Light Drive in Centrosymmetric Systems"_,  
