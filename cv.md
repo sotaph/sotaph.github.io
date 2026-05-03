@@ -29,5 +29,9 @@ Guest Scientist (postdoctoral researcher) at
 Max Planck Institute for the Physics of Complex Systems (Oka Group)
 
 
-Apr. 2019 - present  
+Apr. 2019 - Apr. 2026  
 Research Associate (Morimoto Group), Department of Applied Physics, University of Tokyo  
+
+
+May 2026 - present  
+Program-Specific Senior Lecturer, Graduate School of Science, Kyoto University  
