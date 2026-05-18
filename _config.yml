@@ -22,7 +22,7 @@ nav:
 # - name: "Resume"
 #   link: "resume.pdf"
  - name: <i class="fas fa-home fa-lg" title="Group"></i>
-   link: "http://morimoto-lab.t.u-tokyo.ac.jp"
+   link: "https://cond.scphys.kyoto-u.ac.jp/"
  - name: <i class="ai ai-google-scholar-square ai-lg" title="Google Scholar"></i>
    link: "https://scholar.google.co.jp/citations?user=_HyaTKkAAAAJ"
  - name: <i class="ai ai-semantic-scholar ai-lg" title="Semantic Scholar"></i>
