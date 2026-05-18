@@ -20,19 +20,46 @@ condensed matter theory, nonequilibrium quantum systems, nonperturbative transpo
 
 ---
 
-### 学歴 <span style="font-size: 75%">[[eng]({{base_url}}cv)]</span>
+{% include lang-switch-h3.html ja_title="学歴" en_title="Education" %}
 
+{% capture ja_text %}
 2008年03月 | 岡山県立岡山朝日高校卒業
 2012年03月 | 東京大学理学部物理学科卒業
 2014年03月 | 東京大学大学院理学系研究科物理学専攻 修士課程修了
 2017年03月 | 東京大学大学院理学系研究科物理学専攻 博士課程修了
+{% endcapture %}
 
-### 職歴 <span style="font-size: 75%">[[eng]({{base_url}}cv)]</span>
+{% capture en_text %}
+Mar. 2008 | High School Diploma, Okayama Asahi Senior High School
+Mar. 2012 | Bachelor of Science, Department of Physics, University of Tokyo
+Mar. 2014 | Master of Science, Department of Physics, University of Tokyo
+Mar. 2017 | Ph. D, Department of Physics, University of Tokyo
+{% endcapture %}
 
+
+{% include lang-block.html ja=ja_text en=en_text %}
+
+{% include lang-switch-h3.html ja_title="職歴" en_title="Experiences" %}
+
+{% capture ja_text %}
 2012年10月 - 2017年03月| フォトンサイエンス・リーディング大学院 (ALPS) コース生
 2017年04月 - 2019年03月| マックスプランク複雑系物理学研究所 博士研究員
 2019年04月 - 2026年04月| 東京大学大学院工学系研究科物理工学専攻 森本研究室 助教
 2026年05月 -| 京都大学大学院理学研究科 相関設計物理学特別講座 特定講師
+{% endcapture %}
+
+{% capture en_text %}
+Oct. 2012 - Mar. 2017  | Advanced Leading Graduate Course for Photon Science (ALPS)
+Apr. 2017 - Mar. 2019  | Guest Scientist (postdoctoral researcher) at Max Planck Institute for the Physics of Complex Systems (Oka Group)
+Apr. 2019 - Apr. 2026  | Research Associate (Morimoto Group), Department of Applied Physics, University of Tokyo
+May 2026 - present  | Program-Specific Senior Lecturer, Graduate School of Science, Kyoto University
+{% endcapture %}
+
+{% include lang-block.html ja=ja_text en=en_text %}
+
+
+
+
 
 
 

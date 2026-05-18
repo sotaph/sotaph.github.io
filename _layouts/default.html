@@ -83,6 +83,27 @@
           ga('send', 'pageview');
         </script>
     {% endif %}
+
+
+
+    <script>
+    function toggleLanguage(checkbox) {
+    const isChecked = checkbox.checked;
+
+    const allCheckboxes = document.querySelectorAll('input[type="checkbox"]');
+    allCheckboxes.forEach(cb => {
+        cb.checked = isChecked;
+    });
+
+    document.querySelectorAll('.lang-ja').forEach(el => {
+        el.style.display = isChecked ? 'none' : 'block';
+    });
+    document.querySelectorAll('.lang-en').forEach(el => {
+        el.style.display = isChecked ? 'block' : 'none';
+    });
+    }
+    </script>
+
 </body>
 <footer>
 </footer>
