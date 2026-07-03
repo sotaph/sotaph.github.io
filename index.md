@@ -80,6 +80,11 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+
+1. Sota Kitamura, Takahiro Anan, and Takahiro Morimoto:  
+_"Quantum-geometric shift of quasiequilibrium: Origin of nonreciprocal current driven by quantum-metric dipole"_,  
+[arXiv:2607.02100](https://arxiv.org/abs/2607.02100).  
+
 1. Y. Dong, S. Kitamura, Y. M. Itahashi, D. G. Chica, S. Toyoda, K. Watanabe, T. Taniguchi, M. Tanaka, X. Roy, N. Ogawa, T. Morimoto, Y. Iwasa, and T. Ideue:  
 _"Layer photovoltaic effect in a two-dimensional antiferromagnet with parity-time symmetry"_,  
 <!-- [Nat. Mater. **XX**, XXXXXX (2026)](https://doi.org/10.1038/s41563-026-02593-8).  -->
@@ -192,7 +197,7 @@ Editors' Suggestion [[arXiv](https://arxiv.org/abs/2104.11418)]
 1. T. Akamatsu<sup>\*</sup>, T. Ideue<sup>\*</sup>, L. Zhou<sup>\*</sup>, Y. Dong, S. Kitamura, M. Yoshii, D. Yang, M. Onga, Y. Nakagawa, K. Watanabe, T. Taniguchi, J. Laurienzo, J. Huang, Z. Ye, T. Morimoto, H. Yuan, and Y. Iwasa:  
 _"A van der Waals interface that creates in-plane polarization and a spontaneous photovoltaic effect"_,  
 [Science **372**, 68 (2021)](https://doi.org/10.1126/science.aaz9146).  
-[[プレスリリース](https://www.t.u-tokyo.ac.jp/foe/press/setnws_202104021333120169363733.html)]
+[[プレスリリース](https://www.t.u-tokyo.ac.jp/press/foe/press/setnws_202104021333120169363733.html)]
 
 1. Sota Kitamura, Naoto Nagaosa, and Takahiro Morimoto:  
 _"Current response of nonequilibrium steady states in Landau-Zener problem: Nonequilibrium Green's function approach"_,  
