@@ -107,7 +107,7 @@ _"Formulation of the orbital magnetic moment in multiorbital tight-binding model
 
 1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
 _"Problem of Nonlinear Conductivity within Relaxation Time Approximation in Noncentrosymmetric Insulators"_,  
-[Phys. Status Solidi B **2025**, 2400533 (2025)](https://doi.org/10.1002/pssb.202400533).  
+[Phys. Status Solidi B **262**, 2400533 (2025)](https://doi.org/10.1002/pssb.202400533).  
 [[arXiv](https://arxiv.org/abs/2411.00658)]
 
 1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
