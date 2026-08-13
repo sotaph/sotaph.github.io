@@ -5,7 +5,7 @@ use_math : true
 
 ## 第67回 物性若手夏の学校 講義E「周期駆動量子系の物理」
 
-公式ウェブサイトは[こちら](https://cmpss.jp/index.php)
+公式ウェブサイトは[こちら](https://cmpss.jp/ss2022/)
 
 #### 概要
 物質の性質を自在に設計・制御することは凝縮系物理学の究極の目標の一つといえるが、物性制御の新たな可能性を切り開く試みとして、光誘起相転移の研究が挙げられる。新たに光という自由度を導入することは、単に既存の相図に新しい軸を加えることに留まらず、動的に物性をスイッチングできる可能性をもたらしたり、強い外場によって起こる非平衡現象を利用することで平衡状態では思いもかけないような状態を実現させたりといった、質的に新しい物理を生み出す舞台を提供する。
@@ -16,12 +16,12 @@ use_math : true
 
 #### 講義資料
 
-- [テキスト (11/30更新)](pdf/cmpss67-text.pdf)
+- [テキスト (11/30更新)](https://doi.org/10.57393/natsugaku.1.0_81)
 
 - [講義ノート (手書き)](pdf/cmpss67-notes.pdf)
 
 - その他
-  - [動的局在、トポロジカル転移のデモ用.nbファイル](https://drive.google.com/file/d/1uGQQ3RWlqaKLJCoJzmdlU1aGEE7O5a2s/view?usp=sharing)
+  - [動的局在、トポロジカル転移のデモ用.nbファイル](https://drive.google.com/file/d/1sCalRvJVSMG2FuzcN21zsdADKVSgZChc/view?usp=sharing)
 
 - 副読資料
   - A. Eckardt, _"Colloquium: Atomic quantum gases in periodically driven optical lattices"_, [Rev. Mod. Phys **89**, 011004 (2017)](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.89.011004)
