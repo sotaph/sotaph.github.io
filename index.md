@@ -80,6 +80,10 @@ Adviser: Prof. Hideo Aoki
 
 ### Publications
 
+1. Sota Kitamura and Takashi Oka:  
+_"Dirac Electrons in AC-Magnetic Fields: $\pi$-Landau Levels and Chiral Anomaly-Induced Homodyne Effect"_,  
+[Phys. Rev. B **114**, 165120 (2026)](https://link.aps.org/doi/10.1103/wvgm-q44b).  
+[[arXiv](https://arxiv.org/abs/2407.08115)]  
 
 1. Sota Kitamura, Takahiro Anan, and Takahiro Morimoto:  
 _"Quantum-geometric shift of quasiequilibrium: Origin of nonreciprocal current driven by quantum-metric dipole"_,  
@@ -124,10 +128,6 @@ _"Brillouin zone folding method for quasiperiodic superconductivity in multilaye
 _"Controllable photocurrent generation in Dirac systems with two frequency drives"_,  
 [Phys. Rev. B **110**, 235206 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.235206).  
 [[arXiv](https://arxiv.org/abs/2406.14881)]  
-
-1. Sota Kitamura and Takashi Oka:  
-_"Dirac Electrons in AC-Magnetic Fields: $\pi$-Landau Levels and Chiral Anomaly-Induced Homodyne Effect"_,  
-[arXiv:2407.08115](https://arxiv.org/abs/2407.08115).  
 
 1. Ibuki Terada, Sota Kitamura, Hiroshi Watanabe, and Hiroaki Ikeda:  
 _"Limitations and improvements of the relaxation time approximation in the quantum master equation: Linear conductivity in insulating systems"_,  
