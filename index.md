@@ -81,7 +81,7 @@ Adviser: Prof. Hideo Aoki
 ### Publications
 
 1. Sota Kitamura and Takashi Oka:  
-_"Dirac Electrons in AC-Magnetic Fields: $\pi$-Landau Levels and Chiral Anomaly-Induced Homodyne Effect"_,  
+_"Dirac electrons in ac-magnetic fields: $\pi$-Landau levels and chiral-anomaly-induced homodyne effect"_,  
 [Phys. Rev. B **114**, 165120 (2026)](https://link.aps.org/doi/10.1103/wvgm-q44b).  
 [[arXiv](https://arxiv.org/abs/2407.08115)]  
 
