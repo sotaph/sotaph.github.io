@@ -92,7 +92,7 @@ _"Quantum-geometric shift of quasiequilibrium: Origin of nonreciprocal current d
 1. Y. Dong, S. Kitamura, Y. M. Itahashi, D. G. Chica, S. Toyoda, K. Watanabe, T. Taniguchi, M. Tanaka, X. Roy, N. Ogawa, T. Morimoto, Y. Iwasa, and T. Ideue:  
 _"Layer photovoltaic effect in a two-dimensional antiferromagnet with parity-time symmetry"_,  
 <!-- [Nat. Mater. **XX**, XXXXXX (2026)](https://doi.org/10.1038/s41563-026-02593-8).  -->
-[Nat. Mater. (2026)](https://doi.org/10.1038/s41563-026-02593-8).  
+[Nat. Mater. **25**, 1776 (2026)](https://doi.org/10.1038/s41563-026-02593-8).  
 [[プレスリリース](https://www.issp.u-tokyo.ac.jp/maincontents/news2.html?pid=30572)]
 
 1. Takahiro Anan, Sota Kitamura, and Takahiro Morimoto:  
