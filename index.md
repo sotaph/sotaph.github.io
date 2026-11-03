@@ -6,7 +6,7 @@ use_math : true
 <img class="profile-picture" src="images/profile.jpg">
 
 Program-Specific Senior Lecturer, Kyoto University  
-京都大学大学院理学研究科 相関設計物理学特別講座 特定講師  
+京都大学大学院理学研究科 特定講師  
 
 
 <i class="far fa-envelope"></i> kitamura.sota.8y 0x40 kyoto-u.ac.jp  
@@ -45,7 +45,7 @@ Mar. 2017 | Ph. D, Department of Physics, University of Tokyo
 2012年10月 - 2017年03月| フォトンサイエンス・リーディング大学院 (ALPS) コース生
 2017年04月 - 2019年03月| マックスプランク複雑系物理学研究所 博士研究員
 2019年04月 - 2026年04月| 東京大学大学院工学系研究科物理工学専攻 森本研究室 助教
-2026年05月 -| 京都大学大学院理学研究科 相関設計物理学特別講座 特定講師
+2026年05月 -| 京都大学大学院理学研究科 特定講師
 {% endcapture %}
 
 {% capture en_text %}
