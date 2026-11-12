@@ -81,8 +81,8 @@ Adviser: Prof. Hideo Aoki
 ### Publications
 
 1. Y. Dong, M. Yoshii, Z. Wang, F. S. Yasin, S. Kitamura, F. Qin, S. Toyoda, T. Morimoto, X. Yu, N. Ogawa, Y. Iwasa, and T. Ideue:  
-_"Twist-Dependent In-Plane Symmetry Breaking in the WSe2/Black Phosphorus Interface"_,  
-[Nano Lett. (2026)](https://doi.org/10.1021/acs.nanolett.6c05049).  
+_"Twist-Dependent In-Plane Symmetry Breaking in the WSe<sub>2</sub>/Black Phosphorus Interface"_,  
+[Nano Lett. **26**, 15507 (2026)](https://doi.org/10.1021/acs.nanolett.6c05049).  
 
 1. Sota Kitamura and Takashi Oka:  
 _"Dirac electrons in ac-magnetic fields: $\pi$-Landau levels and chiral-anomaly-induced homodyne effect"_,  
